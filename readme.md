@@ -1,3 +1,15 @@
+# Database sqlite3
+```bash
+Download .db file from https://drive.google.com/open?id=13EDK3yiTZsjAOGTuAxNFgy7FG98Sh7d4 
+Copy to the folder /brainwaves_hackathon/website/
+```
+# Backend Django
+
+```bash
+cd website
+pip3 install -r requirements.txt
+python3 manage.py runserver
+```
 # React Application
 
 ```bash
@@ -6,18 +18,8 @@ npm install
 npm start
 ```
 
-# Backend Django
 
-```bash
-cd website
-pip3 install -r requirements.txt
-python3 manage.py runserver
-```
-# Database sqlite3
-```bash
-Download .db file from https://drive.google.com/open?id=13EDK3yiTZsjAOGTuAxNFgy7FG98Sh7d4 
-Copy to the folder /brainwaves_hackathon/website/
-```
+
 
 Then move to localhost:3000 to view the application in action.
 

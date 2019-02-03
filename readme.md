@@ -23,17 +23,17 @@ npm start
 
 Then move to localhost:3000 to view the application in action.
 
-#Top 50 Stocks by volume
+# Top 50 Stocks by volume
 ![enter image description here][1]
-#List of all Stocks
+# List of all Stocks
 ![enter image description here][2]
-#Graph of top 10 Stocks by volume of all time
+# Graph of top 10 Stocks by volume of all time
 ![enter image description here][3]
-#Search by Stock Symbol
+# Search by Stock Symbol
 ![enter image description here][4]
-#Search by Stock Symbol and Date
+# Search by Stock Symbol and Date
 ![enter image description here][5]
-#Search by Stock Date
+# Search by Stock Date
 ![enter image description here][6]
 
 
